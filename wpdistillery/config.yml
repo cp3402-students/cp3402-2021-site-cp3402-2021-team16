@@ -23,7 +23,7 @@ timezone: "Brisbane/Australia"
 admin:
   user: admin
   password: admin
-  email: mail@domain.tld
+  email: admin@jazzclub.tsv
   first_name: ""
   last_name: ""
 

@@ -16,6 +16,7 @@ Vagrant.configure("2") do |config|
     config.vm.network "private_network", ip: "192.168.33.10"
     # For JCU Windows labs, comment-out the above line and remove the # on the next line.
     # config.vm.network "public_network"
+    
 
     # Use vagrant-winnfsd if available https://github.com/flurinduerst/WPDistillery/issues/78
     if Vagrant.has_plugin? 'vagrant-winnfsd'
