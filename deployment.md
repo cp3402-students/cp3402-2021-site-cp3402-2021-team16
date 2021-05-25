@@ -18,7 +18,7 @@ Link to Github Repo: <https://github.com/cp3402-students/cp3402-2021-site-cp3402
 
 The development and deployment was tracked using Trello Boards.Trello helped in the planning before, and during the creation of the website to maintain efficient workflow. Each group member was assigned a job using Trello either alone, or together, and later reviewed by everyone else to make sure everything was up to everyone's standard.
 
-Trello board link: <https://trello.com/b/Cy0rVmFi/cp3402-team16>#
+Trello board link: <https://trello.com/b/Cy0rVmFi/cp3402-team16>
 
 ## Deployment
 
