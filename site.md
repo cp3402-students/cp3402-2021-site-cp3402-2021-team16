@@ -3,7 +3,7 @@
 ## Plug-in lists
 
 
-- html5 AUdio Player
+- html5 Audio Player
 The html5 Audio Player is easily integrate audio player in the website.
 
 - WP Clone
