@@ -6,7 +6,7 @@
 
 AWS was used to create a live version of the website. This was used as the main site. The live site's theme were exported and imported into everyone's local environments first. This local environment was connected to github which then allowed everyone to view and edit the site however they wanted to without affecting the live site. The live site also allowed everyone to edit the contents together at the same time.
 
-Link to AWS live site: ec2-3-16-46-160.us-east-2.compute.amazonaws.com
+Link to AWS live site: <https://ec2-3-16-46-160.us-east-2.compute.amazonaws.com>
 
 ### Github
 
