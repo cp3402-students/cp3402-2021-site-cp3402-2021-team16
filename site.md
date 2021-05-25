@@ -6,7 +6,7 @@
 - html5 Audio Player
 The html5 Audio Player is easily integrate audio player in the website.
 
--WP File Manager
+- WP File Manager
 This plug-in used in the thmeme to transfer local host to the live server.
 
 - Decent Comments 
