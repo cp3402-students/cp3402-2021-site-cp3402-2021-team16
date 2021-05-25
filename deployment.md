@@ -50,5 +50,5 @@ To edit the theme on live site:
 
 ## Commiting to main Github repo
 
-To commit changes to the github repo, the local site was to be exported. This was done using a wordpress plugin called 'All-in-one WP Migration'. This plugin allowed the theme files to be exported as the normal built in export did not allow access to the theme folder. The new theme file was finally uploaded to github and updated, overwriting the old theme folder.
+To commit changes to the github repo, the local site was to be exported. This was done using a wordpress plugin called 'WP File Manager'. This plugin allowed the theme files to be exported as the normal built in export did not allow access to the theme folder. The new theme file was finally uploaded to github and updated, overwriting the old theme folder.
 
