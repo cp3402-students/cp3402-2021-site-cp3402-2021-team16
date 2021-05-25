@@ -40,7 +40,7 @@ The theme was edited through the WordPress live site by the contributers. Wordpr
 
 To edit the theme:
 
-1. Login to live website wp-admin by typing /wp-admin at the end of the site.
+1. Login to live website wp-admin by typing /wp-admin at the end of the site URL (e.g. 3.16.46.160/wp-admin).
 2. Go to; Appearance --> Theme Editor.
 3. Under "Theme Files", go to; css/theme.css.
 
