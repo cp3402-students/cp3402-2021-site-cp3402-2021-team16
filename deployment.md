@@ -36,9 +36,13 @@ To setup your own local host:
 
 ## Editing the theme
 
-The theme was edited through the WordPress live site by the contributers. Wordpress has it's own theme editor implanted in their system which allowed the changing of the theme.css through the live website.
+The theme was edited using either the local host or the WordPress live site by the contributers. Wordpress has it's own theme editor implanted in their system which allowed the changing of the theme.css through the live website.
 
-To edit the theme:
+To edit the theme on Local Environment:
+
+1. In the cloned public folder in your local environment, go to; wp-content/
+
+To edit the theme on live site:
 
 1. Login to live website wp-admin by typing /wp-admin at the end of the site URL (e.g. 3.16.46.160/wp-admin).
 2. Go to; Appearance --> Theme Editor.
@@ -46,5 +50,5 @@ To edit the theme:
 
 ## Commiting to main Github repo
 
-To commit changes to the github repo, the local site was to be exported. This was done using a wordpress plugin called 'WP Clone'. This plugin allowed the theme files to be exported as the normal built in export did not allow access to the theme folder. The new theme file was finally uploaded to github and updated, overwriting the old theme folder.
+To commit changes to the github repo, the local site was to be exported. This was done using a wordpress plugin called 'All-in-one WP Migration'. This plugin allowed the theme files to be exported as the normal built in export did not allow access to the theme folder. The new theme file was finally uploaded to github and updated, overwriting the old theme folder.
 
